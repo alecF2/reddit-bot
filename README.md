@@ -4,5 +4,5 @@ A locally run bot that allows you track up to (unknown number) subreddits or sea
 
 ## Warning
 
-This is a work in progress currently. Documentation coming soon once I finalize things.
+This is a work in progress currently, some functionalities are not complete. Documentation coming soon once I finalize things.
 
