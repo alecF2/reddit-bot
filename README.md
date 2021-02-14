@@ -6,7 +6,7 @@ Written in JavaScript. Uses snoowrap API wrapper for Reddit.
 
 ## Warning
 
-This is a work in progress currently, some functionalities are not complete. Documentation coming soon once I finalize things.
+This is a work in progress currently, some functionalities are not complete. Don't download unless you know what you are doing. Documentation coming soon once I finalize things.
 
 ## Examples
 
