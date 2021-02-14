@@ -6,3 +6,12 @@ A locally run bot that allows you track up to (unknown number) subreddits or sea
 
 This is a work in progress currently, some functionalities are not complete. Documentation coming soon once I finalize things.
 
+## Examples
+
+![image-20210213172309571](https://i.imgur.com/AASfr6c.png)
+
+(initialize the tracker)
+
+![image-20210213172348462](https://i.imgur.com/9gxkKXK.png)
+
+(get a message as soon as the bot detects a new post from the given search query)
